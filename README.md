@@ -1,2 +1,3 @@
-# Swiper
-Swiper
+# swiper
+
+A description of this package.
